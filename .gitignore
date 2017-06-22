@@ -65,3 +65,8 @@ android/app/BUCK
 android/app/*.keystore
 android/*.iml
 android/app/*.iml
+.watchmanconfig
+__tests__/
+.babelrc
+.buckconfig
+.flowconfig

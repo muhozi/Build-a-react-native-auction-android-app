@@ -1,0 +1,28 @@
+{
+  "name": "Auction",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "16.0.0-alpha.6",
+    "react-dom": "^15.5.4",
+    "react-native": "0.44.0",
+    "react-native-fetch-blob": "^0.10.5",
+    "react-native-image-picker": "^0.26.3",
+    "react-native-lightbox": "^0.6.0",
+    "react-native-router-flux": "^3.39.2",
+    "react-native-vector-icons": "^4.1.0"
+  },
+  "devDependencies": {
+    "babel-jest": "19.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "jest": "19.0.2",
+    "react-test-renderer": "16.0.0-alpha.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

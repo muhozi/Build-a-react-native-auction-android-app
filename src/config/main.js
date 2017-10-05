@@ -1,4 +1,4 @@
 const config = {
-	url:'http://auction.regeza.com/'
+	url:'http://auctionbuy.herokuapp.com/'
 }
 export default config

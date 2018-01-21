@@ -20,7 +20,7 @@ Then Finally run the application:
 react-native run-android
 ```
 
-Get the built (.apk) app  at [http://auctionby.herokuapp.com/getapp](http://auctionby.herokuapp.com/getapp) and install it.
+Get the built (.apk) app  at [http://auctionbuy.herokuapp.com/getapp](http://auctionbuy.herokuapp.com/getapp) and install it.
 
 
 

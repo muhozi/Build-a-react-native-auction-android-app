@@ -37,7 +37,16 @@ react-native run-android
 * React-Native (App)
 * Backend (Api) : Laravel with Mysql Database. Checkout the backend [Here](https://github.com/muhozi/auction-application)
 
-*Keep learn*ing and Sharing knowledge 📖📚
+*Keep learning* and Sharing knowledge 📖📚
+
+## Screenshots
+
+| **Splash screen** ![SplashScreen](./screenshots/SplashScreen.png) |         **Login** ![login](./screenshots/login.png)          |   **Register** ![register](./screenshots/register.png)    |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------: |
+|  **Add auction**![addAuction](./screenshots/addAuction.png)  |     **Auctions** ![auctions](./screenshots/auctions.png)     |           **Bid** ![bid](./screenshots/bid.png)           |
+| **Product image view** ![imageView](./screenshots/imageView.png) | **Image picker** ![ImagePicker](./screenshots/pickImage.png) | **Date picker** ![datePicker](./screenshots/pickDate.png) |
+
+
 
 # Author
 
